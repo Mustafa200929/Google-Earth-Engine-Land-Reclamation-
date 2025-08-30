@@ -1,4 +1,4 @@
-var table = ee.FeatureCollection("projects/ee-mus383729/assets/gadm41_SGP_1")// replace with your own shape,
+var table = ee.FeatureCollection("projects/ee-mus383729/assets/gadm41_SGP_1"), // replace with your own shape
     geometry3 = 
     /* color: #d63000 */
     /* shown: false */
